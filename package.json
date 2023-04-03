@@ -1,0 +1,11 @@
+{
+  "name": "grow-with-griefshine",
+  "version": "1.0.0",
+  "description": "an app that syncs orders between shopify stores",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
